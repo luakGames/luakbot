@@ -16,3 +16,12 @@ For support with the bot please join [luak games offical server](https://discord
 
 ### Discolsures and agreements
 
+There are a few things that you must agree with when adding the luak bot
+sldj
+sdlk
+sald'k
+slkd
+s;lkad
+;lskd
+;lksd
+;lskd
