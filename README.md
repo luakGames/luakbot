@@ -8,7 +8,7 @@ To add the luak bot to your discord server [click here](https://discord.com/oaut
 
 ### Features
 
-To see all of the features of the luak bot discord bot please look at this google doc - [doc](https://docs.google.com/document/d/1f8QritGxEtFShgDezvsrntMPqQSvnubdTaZMeb-QB1c/edit?usp=sharing).
+To see all of the features of the luak bot discord bot please look at this google doc - [here](https://docs.google.com/document/d/1f8QritGxEtFShgDezvsrntMPqQSvnubdTaZMeb-QB1c/edit?usp=sharing).
 
 ### Support or Contact
 
