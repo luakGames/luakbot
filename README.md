@@ -1,6 +1,6 @@
-### Luak bot
+### What is it?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luakGames/luakbot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The **Luak Bot** is a free discord bot developed by [luak games](https://www.luakgames.com/). The bot is a fully fledged economy, moderation, and enjoyment bot that beats out all of the rest. Luak bot is in early development and lots of its features are still not complete.
 
 ### Support or Contact
 
