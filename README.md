@@ -6,14 +6,18 @@ The **Luak Bot** is a free discord bot developed by [luak games](https://www.lua
 
 To add the luak bot to your discord server [click here](https://discord.com/oauth2/authorize?client_id=830185261898924092&permissions=8&scope=bot). This will open a link asking to connect the bot to the server of your choice with administrator permissions, these are necessary for the bot to run. From there you are all set! Just run the setup commands and enjoy the luak jr bot.
 
-### Premium versions
+### Features
 
-Some features of the bot are not avaliable to the public for free such as early acess, custom commands, and other features such as monthly server add removal and access to the private luak bot discord server. Gain acess to these benefits by pledging to the [luakbot patreon](https://www.patreon.com/luakbot)!
+To see all of the features of the luak bot discord bot please look at this google doc - [doc](
 
 ### Support or Contact
 
 For support with the bot please join [luak games offical server](https://discord.com/invite/CgHutVyMnm) and contact me or a moderator. Please keep in mind the bot is in early development so many bugs are still being discovered and fixed. For other support with the bot make sure to use .hlp for a list of commands and .setup to set up the bot and get all of its features working.
 
-### Discolsures and agreements
+### Premium versions
 
-There are a few things that you must agree with when adding the luak bot to your discord server. You must agree to the use of server data collection, for your privacy this is limited to sending data to luak games about the server name, member count, and daily usage of the bot. All colleted data is used for bot improvement pourposes and is not shared with anyone ex
+Some features of the bot are not avaliable to the public for free such as early acess, custom commands, and other features such as monthly server add removal and access to the private luak bot discord server. Gain acess to these benefits by pledging to the [luakbot patreon](https://www.patreon.com/luakbot)!
+
+### Additional
+
+For more information about the developer please visit luakgames.com and to see the basic bot source code visit the [luak bot replit](https://replit.com/@luakgames/luak-bot#main.py) and note that all code is owned and created by luak games. Any shared use of the premium versions of the bot is strictly prohibited. Luak games has the ability to remove the bot from any server that it is added to in ceratian situations that break the rules. Now go out there and enjoy a fully featured and free discord bot!
