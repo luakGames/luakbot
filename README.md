@@ -16,12 +16,4 @@ For support with the bot please join [luak games offical server](https://discord
 
 ### Discolsures and agreements
 
-There are a few things that you must agree with when adding the luak bot
-sldj
-sdlk
-sald'k
-slkd
-s;lkad
-;lskd
-;lksd
-;lskd
+There are a few things that you must agree with when adding the luak bot to your discord server. You must agree to the use of server data collection, for your privacy this is limited to sending data to luak games about the server name, member count, and daily usage of the bot. All colleted data is used for bot improvement pourposes and is not shared with anyone ex
